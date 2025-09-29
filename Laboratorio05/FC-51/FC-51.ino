@@ -3,14 +3,14 @@
 #include "Adafruit_MQTT_Client.h"
 
 /******** Wi-Fi ********/
-#define WLAN_SSID   "TU_SSID"
-#define WLAN_PASS   "TU_PASSWORD"
+#define WLAN_SSID   "ARTEFACTOS"
+#define WLAN_PASS   "ARTEFACTOS"
 
 /******** Adafruit IO ********/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "TU_USUARIO_ADAFRUIT"
-#define AIO_KEY         "TU_AIO_KEY"
+#define AIO_USERNAME    "gabo7iraheta
+#define AIO_KEY         "pass"
 
 /******** MQTT ********/
 WiFiClient client;
